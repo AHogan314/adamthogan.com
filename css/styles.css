@@ -1,7 +1,8 @@
 body {
 background: url("../images/tile.jpg") repeat;
 background-repeat: repeat;
-color: #00ff00;
+/*color: #00ff00;*/
+color: #ffffff;
 font-size: 75pt;
 font-family: times new roman;
 text-align: center;
@@ -12,13 +13,22 @@ text-align: center;
 }
 
 .links {
-	font-size: 30pt;
+	font-size: 15pt;
 }
 
 a {
-	color: #00ff00;
+	color: #ffffff;
 }
 
 a:hover {
 	color:white;
+}
+
+.banners {
+	margin-top: 25px;
+	margin-bottom: 25px;
+}
+
+.footer{
+ 	font-size: 10px;
 }
